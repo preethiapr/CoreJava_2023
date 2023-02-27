@@ -5,5 +5,7 @@ public class LoginPage {
 		System.out.println("My Login Page"+var);
 		var =100;
 		System.out.println("Login Page Again"+var);
+		var = 1000;
+		System.out.println("Again"+var);
 	}
 }
